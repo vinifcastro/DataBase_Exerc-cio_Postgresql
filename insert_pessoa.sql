@@ -1,0 +1,10 @@
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('11122233344', 'FULANO DE TAL', 'PAI DO FULANO', '1980-02-03', 'MÃE DO FULANO');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('22233344455', 'CICLANO DE TAL', 'PAI DO CICLANO', '1974-08-25', 'MÃE DO CICLANO');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('33344455566', 'BELTRANO DE TAL', 'PAI DO BELTRANO', '1983-11-16', 'MÃE DO BELTRANO');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('44455566677', 'MARIA DA SILVA', 'PAI DO MARIA', '1988-12-25', 'MÃE DA MARIA');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('55566677788', 'JOANA DA SILVA', 'PAI DA JOANA', '1985-12-16', 'MÃE DA JOANA');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('66677788899', 'JOAQUIM DA SILVA', 'PAI DO JOAQUIM', '1995-05-06', 'MÃE DO JOAQUIM');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('99900011122', 'CASTRO ALVES', 'PAI DO CASTRO ALVES', '1987-11-19', 'MÃE DO CASTRO ALVES');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('00011122233', 'HELENA DE TROIA', 'PAI DA HELENA', '1984-02-14', 'MÃE DA HELENA');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('55599922233', 'CHICO ANÍSIO', 'PAI DO CHICO ANÍSIO', '1991-11-11', 'MÃE DO CHICO ANÍSIO');
+INSERT INTO pessoa (cpf, nome,  nome_pai, data_nascimento, nome_mae) VALUES ('88844466633', 'CREYSSON DA SILVA', 'PAI DO CREYSSON', '1982-04-17', 'MÃE DO CREYSSON');

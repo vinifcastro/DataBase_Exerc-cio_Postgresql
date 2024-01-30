@@ -1,0 +1,5 @@
+Exercício extra:
+
+O OBJETIVO É GERAR UM DATA WAREHOUSE A PARTIR DO BANCO DE DADOS DE ENDEREÇO. PARA ISSO VOCÊ DEVERÁ GERAR UM ARQUIVO TEXTO CONTENDO AS SEGUINTES  COLUNAS DO SEU BANCO DE DADOS
+
+CPF da pessoa, Nome da pessoa, Noma de pai, Nome da mãe, Data de nascimento, Tipo do Dependente, Nome do Dependente, Data de Nascimento do Dependente, Nome do Tipo do Endereço, Quadra, Lote, Número, Complemento, Nome do Logradouro, Nome do Bairro, Nome do Município, Nome do Estado.
